@@ -7,7 +7,7 @@ The data used in this exercise represent data collected from the accelerometers 
 the Samsung Galaxy S smartphone. A full description is available at the site where the
 data was obtained:
 
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Samrtphones
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
 Data used in this project can be downloaded from:
