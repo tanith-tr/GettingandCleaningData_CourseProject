@@ -12,7 +12,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Data used in this project can be downloaded from:
 
-https://d396Qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%Dataset.zip
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 
 In order to run the code the input files should be in "data" folder under your working directory
