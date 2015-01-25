@@ -15,8 +15,9 @@ Data used in this project can be downloaded from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 
-In order to run the code the input files should be in "data" folder under your working directory
-and `run_analysis.R` should be placed in your working directory.
+In order to run the code unzip files to "UCIHAR" folder under your working directory. 
+`run_analysis.R` should 
+also be placed in your working directory.
 
 The R script called run_analysis.R does the following:
 1. Merges the training and the test sets to create one data set.
