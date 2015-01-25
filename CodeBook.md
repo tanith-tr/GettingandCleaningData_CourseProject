@@ -122,19 +122,19 @@ The complete list of variables of each feature vector is available in 'features.
 ### Transformations on the Input DataSet
 =========================================
 
-*Trainig and testing datasets are merged together to create 'alldata'
-*Variable names are added from 'features.txt'
-*Measurements on the mean and standard deviation for each measurement is extracted and a subset data 
+* Trainig and testing datasets are merged together to create 'alldata'
+* Variable names are added from 'features.txt'
+* Measurements on the mean and standard deviation for each measurement is extracted and a subset data 
 is created
-*Activity names - which are added from 'features.txt' - are renamed to make them more descriptive.
-*Acc' is replaced with 'Accelerator'
-*Mag' is replaces with 'Magnitude'
-*Gyro' is replaced with 'Gyroscope'
-*t' is replaced with 'time'
-*f' is replaced with 'frequency'
-*BodyBody' is replaced with 'Body
-*'()' is removed
-*For each activity and each subject, the average of each variable is calculated and with this averages
+* Activity names - which are added from 'features.txt' - are renamed to make them more descriptive.
+* 'Acc' is replaced with 'Accelerator'
+* 'Mag' is replaces with 'Magnitude'
+* 'Gyro' is replaced with 'Gyroscope'
+* 't' is replaced with 'time'
+* 'f' is replaced with 'frequency'
+* 'BodyBody' is replaced with 'Body
+* '()' is removed
+* For each activity and each subject, the average of each variable is calculated and with this averages
 a new tidy dataset is created.
 
 
